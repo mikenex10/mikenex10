@@ -1,4 +1,4 @@
-# Hi, I'm mikenex10 👋
+# Miguel Cartagena
 
 Biomedical Engineering. Interested in Machine Learning and Security.
 
